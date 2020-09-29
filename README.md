@@ -6,7 +6,7 @@ node-red-contrib-modbus
 1. Copy the text from the json file into your clipboard
 2. Choose Import Clipboard and paste the contents
 3. Edit IP-address to your solaredge inverter
-4. Edit IP-addres to your influxdb server
+4. Edit IP-address to your influxdb server
 
 ## Usage
 ![alt text](https://github.com/jonaslq/solaredge_modbus/raw/master/doc/node-red.png "Overview of node-red config")
