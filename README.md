@@ -18,3 +18,6 @@ Edit the modbus settings in the solaredge 3 module.
 ![alt text](https://github.com/jonaslq/solaredge_modbus/raw/master/doc/influxdb.png "influxdb settings")
 
 Edit the settings for influxdb in the influxdb module.
+
+## Comments
+All modbus information for SolarEdge Inverter can be found here: [https://www.solaredge.com/sites/default/files/sunspec-implementation-technical-note.pdf](https://www.solaredge.com/sites/default/files/sunspec-implementation-technical-note.pdf)
