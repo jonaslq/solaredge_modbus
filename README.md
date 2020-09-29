@@ -12,7 +12,9 @@ node-red-contrib-modbus
 ![alt text](https://github.com/jonaslq/solaredge_modbus/raw/master/doc/node-red.png "Overview of node-red config")
 
 ![alt text](https://github.com/jonaslq/solaredge_modbus/raw/master/doc/modbus_settings.png "modbus settings")
+
 Edit the modbus settings in the solaredge 3 module.
 
 ![alt text](https://github.com/jonaslq/solaredge_modbus/raw/master/doc/influxdb.png "influxdb settings")
+
 Edit the settings for influxdb in the influxdb module.
